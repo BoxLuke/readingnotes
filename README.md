@@ -12,3 +12,5 @@ I believe growth mindset not allowing problems to stop learning.
 3 - Effort is a chance to improve. 
 
 <sub> Remember, If it were easy, everyone would do it. </sub> 
+
+! [picture to illustrate growth mindset and the learning journey](https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter-large.jpg)
