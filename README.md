@@ -1,4 +1,8 @@
 # readingnotes
+
+## Table of Contents:
+[Class 02](https://github.com/BoxLuke/readingnotes/blob/main/class-02.md) 
+
 Good Day, I'm Luke. This is my very first time using GitHub. 
 ### Hashtags as Headings? 
 I just learned using hashtags can denote the heading. 
