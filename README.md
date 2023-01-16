@@ -10,4 +10,5 @@ I believe growth mindset not allowing problems to stop learning.
 2 - **A challenge is an _oppertunity_ to learn.** 
 
 3 - Effort is a chance to improve. 
+
 <sub> Remember, If it were easy, everyone would do it. </sub> 
