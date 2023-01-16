@@ -13,4 +13,4 @@ I believe growth mindset not allowing problems to stop learning.
 
 <sub> Remember, If it were easy, everyone would do it. </sub> 
 
-! [picture to illustrate growth mindset and the learning journey](https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter-large.jpg)
+![picture to illustrate growth mindset and the learning journey](https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter-large.jpg)
